@@ -1,4 +1,4 @@
-[name]
+[app]
 name = "Hello Name Badge"
 category = "Badge"
 wifi_preference = false
